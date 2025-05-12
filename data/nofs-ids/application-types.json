@@ -1,0 +1,8 @@
+{
+  "nofs-dnn1": {
+    "name": "nofs-dnn1",
+    "dag": {
+      "dnn1": []
+    }
+  }
+}
